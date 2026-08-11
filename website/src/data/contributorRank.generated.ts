@@ -47,7 +47,7 @@ export interface NewContributorsSinceReleaseSnapshot {
   entries: ContributorRankEntry[]
 }
 
-export const contributorRankGeneratedAt = '2026-08-10'
+export const contributorRankGeneratedAt = '2026-08-11'
 
 export const newContributorsSinceRelease = {
   "tagName": "v0.2.0",
@@ -949,12 +949,12 @@ export const contributorRankData = {
   "v03ToNow": {
     "id": "v03ToNow",
     "label": "v0.3 -> Now",
-    "generatedAt": "2026-08-10",
+    "generatedAt": "2026-08-11",
     "startDate": "2026-06-05",
-    "endDate": "2026-08-10",
+    "endDate": "2026-08-11",
     "description": "Current non-merge commit activity after v0.3.0.",
-    "totalCommits": 282,
-    "totalReviews": 314,
+    "totalCommits": 285,
+    "totalReviews": 318,
     "totalContributors": 45,
     "newContributors": 26,
     "entries": [
@@ -968,7 +968,7 @@ export const contributorRankData = {
         "key": "github:theohsiung",
         "commits": 43,
         "reviews": 8,
-        "share": 0.1525,
+        "share": 0.1509,
         "firstCommitDate": "2026-06-05",
         "latestCommitDate": "2026-08-04",
         "isNewContributorSinceRelease": false
@@ -983,7 +983,7 @@ export const contributorRankData = {
         "key": "github:wukuntai-0211",
         "commits": 37,
         "reviews": 22,
-        "share": 0.1312,
+        "share": 0.1298,
         "firstCommitDate": "2026-06-08",
         "latestCommitDate": "2026-08-06",
         "isNewContributorSinceRelease": false
@@ -996,11 +996,11 @@ export const contributorRankData = {
         "avatarUrl": "https://avatars.githubusercontent.com/u/48784001?v=4",
         "avatarSeed": "xunzhuo",
         "key": "github:xunzhuo",
-        "commits": 30,
-        "reviews": 66,
-        "share": 0.1064,
+        "commits": 33,
+        "reviews": 67,
+        "share": 0.1158,
         "firstCommitDate": "2026-06-09",
-        "latestCommitDate": "2026-08-09",
+        "latestCommitDate": "2026-08-11",
         "isNewContributorSinceRelease": false
       },
       {
@@ -1013,7 +1013,7 @@ export const contributorRankData = {
         "key": "github:wilsonwu",
         "commits": 29,
         "reviews": 3,
-        "share": 0.1028,
+        "share": 0.1018,
         "firstCommitDate": "2026-06-09",
         "latestCommitDate": "2026-08-04",
         "isNewContributorSinceRelease": false
@@ -1028,7 +1028,7 @@ export const contributorRankData = {
         "key": "github:aayushsaini101",
         "commits": 18,
         "reviews": 91,
-        "share": 0.0638,
+        "share": 0.0632,
         "firstCommitDate": "2026-06-28",
         "latestCommitDate": "2026-08-05",
         "isNewContributorSinceRelease": false
@@ -1042,8 +1042,8 @@ export const contributorRankData = {
         "avatarSeed": "drivebyer",
         "key": "github:drivebyer",
         "commits": 17,
-        "reviews": 34,
-        "share": 0.0603,
+        "reviews": 35,
+        "share": 0.0596,
         "firstCommitDate": "2026-06-17",
         "latestCommitDate": "2026-08-05",
         "isNewContributorSinceRelease": false
@@ -1058,7 +1058,7 @@ export const contributorRankData = {
         "key": "github:twilighttechie",
         "commits": 14,
         "reviews": 5,
-        "share": 0.0496,
+        "share": 0.0491,
         "firstCommitDate": "2026-06-30",
         "latestCommitDate": "2026-07-29",
         "isNewContributorSinceRelease": true
@@ -1073,7 +1073,7 @@ export const contributorRankData = {
         "key": "github:peterren",
         "commits": 11,
         "reviews": 1,
-        "share": 0.039,
+        "share": 0.0386,
         "firstCommitDate": "2026-06-10",
         "latestCommitDate": "2026-07-21",
         "isNewContributorSinceRelease": false
@@ -1088,7 +1088,7 @@ export const contributorRankData = {
         "key": "github:faust-benchou",
         "commits": 10,
         "reviews": 48,
-        "share": 0.0355,
+        "share": 0.0351,
         "firstCommitDate": "2026-06-06",
         "latestCommitDate": "2026-07-22",
         "isNewContributorSinceRelease": false
@@ -1103,7 +1103,7 @@ export const contributorRankData = {
         "key": "github:shraderdm",
         "commits": 10,
         "reviews": 5,
-        "share": 0.0355,
+        "share": 0.0351,
         "firstCommitDate": "2026-06-05",
         "latestCommitDate": "2026-07-16",
         "isNewContributorSinceRelease": false
@@ -1117,8 +1117,8 @@ export const contributorRankData = {
         "avatarSeed": "haowu1234",
         "key": "github:haowu1234",
         "commits": 9,
-        "reviews": 7,
-        "share": 0.0319,
+        "reviews": 9,
+        "share": 0.0316,
         "firstCommitDate": "2026-07-02",
         "latestCommitDate": "2026-07-13",
         "isNewContributorSinceRelease": false
@@ -1133,7 +1133,7 @@ export const contributorRankData = {
         "key": "github:abhinav-m22",
         "commits": 4,
         "reviews": 1,
-        "share": 0.0142,
+        "share": 0.014,
         "firstCommitDate": "2026-08-06",
         "latestCommitDate": "2026-08-09",
         "isNewContributorSinceRelease": true
@@ -1148,7 +1148,7 @@ export const contributorRankData = {
         "key": "github:olifarhaan",
         "commits": 3,
         "reviews": 0,
-        "share": 0.0106,
+        "share": 0.0105,
         "firstCommitDate": "2026-08-08",
         "latestCommitDate": "2026-08-09",
         "isNewContributorSinceRelease": true
@@ -1163,7 +1163,7 @@ export const contributorRankData = {
         "key": "github:ankit373",
         "commits": 3,
         "reviews": 0,
-        "share": 0.0106,
+        "share": 0.0105,
         "firstCommitDate": "2026-08-05",
         "latestCommitDate": "2026-08-09",
         "isNewContributorSinceRelease": true
@@ -1178,7 +1178,7 @@ export const contributorRankData = {
         "key": "github:danehans",
         "commits": 3,
         "reviews": 0,
-        "share": 0.0106,
+        "share": 0.0105,
         "firstCommitDate": "2026-06-17",
         "latestCommitDate": "2026-07-14",
         "isNewContributorSinceRelease": true
@@ -1193,7 +1193,7 @@ export const contributorRankData = {
         "key": "github:glitch-ux",
         "commits": 3,
         "reviews": 0,
-        "share": 0.0106,
+        "share": 0.0105,
         "firstCommitDate": "2026-06-30",
         "latestCommitDate": "2026-07-28",
         "isNewContributorSinceRelease": false
@@ -1208,7 +1208,7 @@ export const contributorRankData = {
         "key": "github:orangecatdeveloper",
         "commits": 3,
         "reviews": 0,
-        "share": 0.0106,
+        "share": 0.0105,
         "firstCommitDate": "2026-07-16",
         "latestCommitDate": "2026-07-17",
         "isNewContributorSinceRelease": true
@@ -1223,7 +1223,7 @@ export const contributorRankData = {
         "key": "github:cryo-zd",
         "commits": 2,
         "reviews": 2,
-        "share": 0.0071,
+        "share": 0.007,
         "firstCommitDate": "2026-06-07",
         "latestCommitDate": "2026-06-23",
         "isNewContributorSinceRelease": false
@@ -1238,7 +1238,7 @@ export const contributorRankData = {
         "key": "github:aastha204",
         "commits": 2,
         "reviews": 1,
-        "share": 0.0071,
+        "share": 0.007,
         "firstCommitDate": "2026-07-08",
         "latestCommitDate": "2026-07-08",
         "isNewContributorSinceRelease": true
@@ -1253,7 +1253,7 @@ export const contributorRankData = {
         "key": "github:gagandhakrey",
         "commits": 2,
         "reviews": 1,
-        "share": 0.0071,
+        "share": 0.007,
         "firstCommitDate": "2026-06-28",
         "latestCommitDate": "2026-08-05",
         "isNewContributorSinceRelease": false
@@ -1268,7 +1268,7 @@ export const contributorRankData = {
         "key": "github:euclidstellar",
         "commits": 2,
         "reviews": 1,
-        "share": 0.0071,
+        "share": 0.007,
         "firstCommitDate": "2026-07-23",
         "latestCommitDate": "2026-07-27",
         "isNewContributorSinceRelease": true
@@ -1283,7 +1283,7 @@ export const contributorRankData = {
         "key": "github:adaamko",
         "commits": 2,
         "reviews": 1,
-        "share": 0.0071,
+        "share": 0.007,
         "firstCommitDate": "2026-07-16",
         "latestCommitDate": "2026-08-04",
         "isNewContributorSinceRelease": true
@@ -1298,7 +1298,7 @@ export const contributorRankData = {
         "key": "github:brelance",
         "commits": 2,
         "reviews": 0,
-        "share": 0.0071,
+        "share": 0.007,
         "firstCommitDate": "2026-06-18",
         "latestCommitDate": "2026-07-15",
         "isNewContributorSinceRelease": false
@@ -1313,7 +1313,7 @@ export const contributorRankData = {
         "key": "github:kunalpandey1",
         "commits": 2,
         "reviews": 0,
-        "share": 0.0071,
+        "share": 0.007,
         "firstCommitDate": "2026-07-03",
         "latestCommitDate": "2026-07-23",
         "isNewContributorSinceRelease": true
@@ -1328,7 +1328,7 @@ export const contributorRankData = {
         "key": "github:duchangyong",
         "commits": 2,
         "reviews": 0,
-        "share": 0.0071,
+        "share": 0.007,
         "firstCommitDate": "2026-08-01",
         "latestCommitDate": "2026-08-01",
         "isNewContributorSinceRelease": true
@@ -1638,7 +1638,7 @@ export const contributorRankData = {
   "v02ToV03": {
     "id": "v02ToV03",
     "label": "v0.2 -> v0.3",
-    "generatedAt": "2026-08-10",
+    "generatedAt": "2026-08-11",
     "startDate": "2026-03-10",
     "endDate": "2026-06-05",
     "description": "Non-merge commit activity between v0.2.0 and v0.3.0.",
@@ -2699,7 +2699,7 @@ export const contributorRankData = {
   "v01ToV02": {
     "id": "v01ToV02",
     "label": "v0.1 -> v0.2",
-    "generatedAt": "2026-08-10",
+    "generatedAt": "2026-08-11",
     "startDate": "2026-01-05",
     "endDate": "2026-03-10",
     "description": "Non-merge commit activity between v0.1.0 and v0.2.0.",
@@ -3372,7 +3372,7 @@ export const contributorRankData = {
   "v0ToV01": {
     "id": "v0ToV01",
     "label": "v0 -> v0.1",
-    "generatedAt": "2026-08-10",
+    "generatedAt": "2026-08-11",
     "startDate": null,
     "endDate": "2026-01-05",
     "description": "Initial non-merge commit activity through v0.1.0.",
@@ -4181,12 +4181,12 @@ export const contributorRankData = {
   "all": {
     "id": "all",
     "label": "All time",
-    "generatedAt": "2026-08-10",
+    "generatedAt": "2026-08-11",
     "startDate": null,
-    "endDate": "2026-08-10",
+    "endDate": "2026-08-11",
     "description": "Full repository non-merge commit history.",
-    "totalCommits": 1641,
-    "totalReviews": 1402,
+    "totalCommits": 1644,
+    "totalReviews": 1406,
     "totalContributors": 153,
     "newContributors": 146,
     "entries": [
@@ -4198,11 +4198,11 @@ export const contributorRankData = {
         "avatarUrl": "https://avatars.githubusercontent.com/u/48784001?v=4",
         "avatarSeed": "xunzhuo",
         "key": "github:xunzhuo",
-        "commits": 382,
-        "reviews": 396,
-        "share": 0.2328,
+        "commits": 385,
+        "reviews": 397,
+        "share": 0.2342,
         "firstCommitDate": "2025-06-16",
-        "latestCommitDate": "2026-08-09",
+        "latestCommitDate": "2026-08-11",
         "isNewContributorSinceRelease": true
       },
       {
@@ -4215,7 +4215,7 @@ export const contributorRankData = {
         "key": "github:rootfs",
         "commits": 206,
         "reviews": 441,
-        "share": 0.1255,
+        "share": 0.1253,
         "firstCommitDate": "2025-04-15",
         "latestCommitDate": "2026-06-07",
         "isNewContributorSinceRelease": true
@@ -4260,7 +4260,7 @@ export const contributorRankData = {
         "key": "github:yossiovadia",
         "commits": 51,
         "reviews": 3,
-        "share": 0.0311,
+        "share": 0.031,
         "firstCommitDate": "2025-05-20",
         "latestCommitDate": "2026-03-26",
         "isNewContributorSinceRelease": true
@@ -4349,7 +4349,7 @@ export const contributorRankData = {
         "avatarSeed": "drivebyer",
         "key": "github:drivebyer",
         "commits": 33,
-        "reviews": 36,
+        "reviews": 37,
         "share": 0.0201,
         "firstCommitDate": "2026-03-13",
         "latestCommitDate": "2026-08-05",
@@ -4380,7 +4380,7 @@ export const contributorRankData = {
         "key": "github:tao12345666333",
         "commits": 28,
         "reviews": 17,
-        "share": 0.0171,
+        "share": 0.017,
         "firstCommitDate": "2025-09-01",
         "latestCommitDate": "2026-02-23",
         "isNewContributorSinceRelease": true
@@ -4395,7 +4395,7 @@ export const contributorRankData = {
         "key": "github:yehuditkerido",
         "commits": 28,
         "reviews": 8,
-        "share": 0.0171,
+        "share": 0.017,
         "firstCommitDate": "2025-10-29",
         "latestCommitDate": "2026-04-14",
         "isNewContributorSinceRelease": true
@@ -4410,7 +4410,7 @@ export const contributorRankData = {
         "key": "github:shraderdm",
         "commits": 27,
         "reviews": 6,
-        "share": 0.0165,
+        "share": 0.0164,
         "firstCommitDate": "2026-05-05",
         "latestCommitDate": "2026-07-16",
         "isNewContributorSinceRelease": true
@@ -4425,7 +4425,7 @@ export const contributorRankData = {
         "key": "github:szedan-rh",
         "commits": 27,
         "reviews": 6,
-        "share": 0.0165,
+        "share": 0.0164,
         "firstCommitDate": "2025-11-08",
         "latestCommitDate": "2026-04-13",
         "isNewContributorSinceRelease": true
@@ -4499,7 +4499,7 @@ export const contributorRankData = {
         "avatarSeed": "haowu1234",
         "key": "github:haowu1234",
         "commits": 22,
-        "reviews": 54,
+        "reviews": 56,
         "share": 0.0134,
         "firstCommitDate": "2026-01-19",
         "latestCommitDate": "2026-07-13",
@@ -4515,7 +4515,7 @@ export const contributorRankData = {
         "key": "github:onezero-y",
         "commits": 17,
         "reviews": 8,
-        "share": 0.0104,
+        "share": 0.0103,
         "firstCommitDate": "2025-09-02",
         "latestCommitDate": "2025-11-08",
         "isNewContributorSinceRelease": true
@@ -4530,7 +4530,7 @@ export const contributorRankData = {
         "key": "github:abdallahsamabd",
         "commits": 17,
         "reviews": 4,
-        "share": 0.0104,
+        "share": 0.0103,
         "firstCommitDate": "2025-12-11",
         "latestCommitDate": "2026-04-21",
         "isNewContributorSinceRelease": true
@@ -4740,7 +4740,7 @@ export const contributorRankData = {
         "key": "github:wangchen615",
         "commits": 6,
         "reviews": 10,
-        "share": 0.0037,
+        "share": 0.0036,
         "firstCommitDate": "2025-08-16",
         "latestCommitDate": "2025-11-12",
         "isNewContributorSinceRelease": true
@@ -4755,7 +4755,7 @@ export const contributorRankData = {
         "key": "github:cooktheryan",
         "commits": 6,
         "reviews": 1,
-        "share": 0.0037,
+        "share": 0.0036,
         "firstCommitDate": "2025-11-05",
         "latestCommitDate": "2026-02-04",
         "isNewContributorSinceRelease": true
@@ -4770,7 +4770,7 @@ export const contributorRankData = {
         "key": "github:srini-abhiram",
         "commits": 6,
         "reviews": 1,
-        "share": 0.0037,
+        "share": 0.0036,
         "firstCommitDate": "2025-10-07",
         "latestCommitDate": "2026-01-09",
         "isNewContributorSinceRelease": true
@@ -4785,7 +4785,7 @@ export const contributorRankData = {
         "key": "github:djanghao",
         "commits": 6,
         "reviews": 0,
-        "share": 0.0037,
+        "share": 0.0036,
         "firstCommitDate": "2026-02-15",
         "latestCommitDate": "2026-03-20",
         "isNewContributorSinceRelease": true
@@ -4800,7 +4800,7 @@ export const contributorRankData = {
         "key": "github:xiaotian-yu",
         "commits": 6,
         "reviews": 0,
-        "share": 0.0037,
+        "share": 0.0036,
         "firstCommitDate": "2026-05-05",
         "latestCommitDate": "2026-06-17",
         "isNewContributorSinceRelease": true
