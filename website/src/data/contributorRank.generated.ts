@@ -47,7 +47,7 @@ export interface NewContributorsSinceReleaseSnapshot {
   entries: ContributorRankEntry[]
 }
 
-export const contributorRankGeneratedAt = '2026-08-13'
+export const contributorRankGeneratedAt = '2026-08-14'
 
 export const newContributorsSinceRelease = {
   "tagName": "v0.2.0",
@@ -949,26 +949,26 @@ export const contributorRankData = {
   "v03ToNow": {
     "id": "v03ToNow",
     "label": "v0.3 -> Now",
-    "generatedAt": "2026-08-13",
+    "generatedAt": "2026-08-14",
     "startDate": "2026-06-05",
-    "endDate": "2026-08-13",
+    "endDate": "2026-08-14",
     "description": "Current non-merge commit activity after v0.3.0.",
-    "totalCommits": 295,
-    "totalReviews": 330,
-    "totalContributors": 47,
-    "newContributors": 28,
+    "totalCommits": 325,
+    "totalReviews": 337,
+    "totalContributors": 49,
+    "newContributors": 30,
     "entries": [
       {
         "rank": 1,
-        "name": "Theo Hsiung",
+        "name": "theohsiung",
         "login": "theohsiung",
         "avatarLogin": "theohsiung",
         "avatarUrl": "https://avatars.githubusercontent.com/u/90186852?v=4",
         "avatarSeed": "theohsiung",
         "key": "github:theohsiung",
-        "commits": 44,
-        "reviews": 8,
-        "share": 0.1492,
+        "commits": 71,
+        "reviews": 9,
+        "share": 0.2185,
         "firstCommitDate": "2026-06-05",
         "latestCommitDate": "2026-08-12",
         "isNewContributorSinceRelease": false
@@ -983,7 +983,7 @@ export const contributorRankData = {
         "key": "github:wukuntai-0211",
         "commits": 37,
         "reviews": 23,
-        "share": 0.1254,
+        "share": 0.1138,
         "firstCommitDate": "2026-06-08",
         "latestCommitDate": "2026-08-06",
         "isNewContributorSinceRelease": false
@@ -997,8 +997,8 @@ export const contributorRankData = {
         "avatarSeed": "xunzhuo",
         "key": "github:xunzhuo",
         "commits": 34,
-        "reviews": 68,
-        "share": 0.1153,
+        "reviews": 72,
+        "share": 0.1046,
         "firstCommitDate": "2026-06-09",
         "latestCommitDate": "2026-08-11",
         "isNewContributorSinceRelease": false
@@ -1011,11 +1011,11 @@ export const contributorRankData = {
         "avatarUrl": "https://avatars.githubusercontent.com/u/1269496?v=4",
         "avatarSeed": "wilsonwu",
         "key": "github:wilsonwu",
-        "commits": 31,
+        "commits": 32,
         "reviews": 3,
-        "share": 0.1051,
+        "share": 0.0985,
         "firstCommitDate": "2026-06-09",
-        "latestCommitDate": "2026-08-12",
+        "latestCommitDate": "2026-08-13",
         "isNewContributorSinceRelease": false
       },
       {
@@ -1027,8 +1027,8 @@ export const contributorRankData = {
         "avatarSeed": "aayushsaini101",
         "key": "github:aayushsaini101",
         "commits": 18,
-        "reviews": 100,
-        "share": 0.061,
+        "reviews": 102,
+        "share": 0.0554,
         "firstCommitDate": "2026-06-28",
         "latestCommitDate": "2026-08-05",
         "isNewContributorSinceRelease": false
@@ -1043,7 +1043,7 @@ export const contributorRankData = {
         "key": "github:drivebyer",
         "commits": 18,
         "reviews": 36,
-        "share": 0.061,
+        "share": 0.0554,
         "firstCommitDate": "2026-06-17",
         "latestCommitDate": "2026-08-11",
         "isNewContributorSinceRelease": false
@@ -1058,7 +1058,7 @@ export const contributorRankData = {
         "key": "github:twilighttechie",
         "commits": 14,
         "reviews": 5,
-        "share": 0.0475,
+        "share": 0.0431,
         "firstCommitDate": "2026-06-30",
         "latestCommitDate": "2026-07-29",
         "isNewContributorSinceRelease": true
@@ -1073,7 +1073,7 @@ export const contributorRankData = {
         "key": "github:peterren",
         "commits": 11,
         "reviews": 1,
-        "share": 0.0373,
+        "share": 0.0338,
         "firstCommitDate": "2026-06-10",
         "latestCommitDate": "2026-07-21",
         "isNewContributorSinceRelease": false
@@ -1088,7 +1088,7 @@ export const contributorRankData = {
         "key": "github:faust-benchou",
         "commits": 10,
         "reviews": 48,
-        "share": 0.0339,
+        "share": 0.0308,
         "firstCommitDate": "2026-06-06",
         "latestCommitDate": "2026-07-22",
         "isNewContributorSinceRelease": false
@@ -1103,7 +1103,7 @@ export const contributorRankData = {
         "key": "github:shraderdm",
         "commits": 10,
         "reviews": 5,
-        "share": 0.0339,
+        "share": 0.0308,
         "firstCommitDate": "2026-06-05",
         "latestCommitDate": "2026-07-16",
         "isNewContributorSinceRelease": false
@@ -1118,7 +1118,7 @@ export const contributorRankData = {
         "key": "github:haowu1234",
         "commits": 9,
         "reviews": 9,
-        "share": 0.0305,
+        "share": 0.0277,
         "firstCommitDate": "2026-07-02",
         "latestCommitDate": "2026-07-13",
         "isNewContributorSinceRelease": false
@@ -1133,7 +1133,7 @@ export const contributorRankData = {
         "key": "github:abhinav-m22",
         "commits": 6,
         "reviews": 1,
-        "share": 0.0203,
+        "share": 0.0185,
         "firstCommitDate": "2026-08-06",
         "latestCommitDate": "2026-08-12",
         "isNewContributorSinceRelease": true
@@ -1148,7 +1148,7 @@ export const contributorRankData = {
         "key": "github:olifarhaan",
         "commits": 3,
         "reviews": 0,
-        "share": 0.0102,
+        "share": 0.0092,
         "firstCommitDate": "2026-08-08",
         "latestCommitDate": "2026-08-09",
         "isNewContributorSinceRelease": true
@@ -1163,7 +1163,7 @@ export const contributorRankData = {
         "key": "github:ankit373",
         "commits": 3,
         "reviews": 0,
-        "share": 0.0102,
+        "share": 0.0092,
         "firstCommitDate": "2026-08-05",
         "latestCommitDate": "2026-08-09",
         "isNewContributorSinceRelease": true
@@ -1178,7 +1178,7 @@ export const contributorRankData = {
         "key": "github:danehans",
         "commits": 3,
         "reviews": 0,
-        "share": 0.0102,
+        "share": 0.0092,
         "firstCommitDate": "2026-06-17",
         "latestCommitDate": "2026-07-14",
         "isNewContributorSinceRelease": true
@@ -1193,7 +1193,7 @@ export const contributorRankData = {
         "key": "github:glitch-ux",
         "commits": 3,
         "reviews": 0,
-        "share": 0.0102,
+        "share": 0.0092,
         "firstCommitDate": "2026-06-30",
         "latestCommitDate": "2026-07-28",
         "isNewContributorSinceRelease": false
@@ -1208,7 +1208,7 @@ export const contributorRankData = {
         "key": "github:orangecatdeveloper",
         "commits": 3,
         "reviews": 0,
-        "share": 0.0102,
+        "share": 0.0092,
         "firstCommitDate": "2026-07-16",
         "latestCommitDate": "2026-07-17",
         "isNewContributorSinceRelease": true
@@ -1223,7 +1223,7 @@ export const contributorRankData = {
         "key": "github:cryo-zd",
         "commits": 2,
         "reviews": 2,
-        "share": 0.0068,
+        "share": 0.0062,
         "firstCommitDate": "2026-06-07",
         "latestCommitDate": "2026-06-23",
         "isNewContributorSinceRelease": false
@@ -1238,7 +1238,7 @@ export const contributorRankData = {
         "key": "github:aastha204",
         "commits": 2,
         "reviews": 1,
-        "share": 0.0068,
+        "share": 0.0062,
         "firstCommitDate": "2026-07-08",
         "latestCommitDate": "2026-07-08",
         "isNewContributorSinceRelease": true
@@ -1253,7 +1253,7 @@ export const contributorRankData = {
         "key": "github:gagandhakrey",
         "commits": 2,
         "reviews": 1,
-        "share": 0.0068,
+        "share": 0.0062,
         "firstCommitDate": "2026-06-28",
         "latestCommitDate": "2026-08-05",
         "isNewContributorSinceRelease": false
@@ -1268,7 +1268,7 @@ export const contributorRankData = {
         "key": "github:euclidstellar",
         "commits": 2,
         "reviews": 1,
-        "share": 0.0068,
+        "share": 0.0062,
         "firstCommitDate": "2026-07-23",
         "latestCommitDate": "2026-07-27",
         "isNewContributorSinceRelease": true
@@ -1283,7 +1283,7 @@ export const contributorRankData = {
         "key": "github:adaamko",
         "commits": 2,
         "reviews": 1,
-        "share": 0.0068,
+        "share": 0.0062,
         "firstCommitDate": "2026-07-16",
         "latestCommitDate": "2026-08-04",
         "isNewContributorSinceRelease": true
@@ -1298,7 +1298,7 @@ export const contributorRankData = {
         "key": "github:iroiro147",
         "commits": 2,
         "reviews": 0,
-        "share": 0.0068,
+        "share": 0.0062,
         "firstCommitDate": "2026-07-14",
         "latestCommitDate": "2026-08-11",
         "isNewContributorSinceRelease": true
@@ -1313,7 +1313,7 @@ export const contributorRankData = {
         "key": "github:brelance",
         "commits": 2,
         "reviews": 0,
-        "share": 0.0068,
+        "share": 0.0062,
         "firstCommitDate": "2026-06-18",
         "latestCommitDate": "2026-07-15",
         "isNewContributorSinceRelease": false
@@ -1328,7 +1328,7 @@ export const contributorRankData = {
         "key": "github:kunalpandey1",
         "commits": 2,
         "reviews": 0,
-        "share": 0.0068,
+        "share": 0.0062,
         "firstCommitDate": "2026-07-03",
         "latestCommitDate": "2026-07-23",
         "isNewContributorSinceRelease": true
@@ -1343,7 +1343,7 @@ export const contributorRankData = {
         "key": "github:duchangyong",
         "commits": 2,
         "reviews": 0,
-        "share": 0.0068,
+        "share": 0.0062,
         "firstCommitDate": "2026-08-01",
         "latestCommitDate": "2026-08-01",
         "isNewContributorSinceRelease": true
@@ -1358,7 +1358,7 @@ export const contributorRankData = {
         "key": "github:rootfs",
         "commits": 1,
         "reviews": 12,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-06-07",
         "latestCommitDate": "2026-06-07",
         "isNewContributorSinceRelease": false
@@ -1373,7 +1373,7 @@ export const contributorRankData = {
         "key": "github:aaditraj",
         "commits": 1,
         "reviews": 1,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-07-25",
         "latestCommitDate": "2026-07-25",
         "isNewContributorSinceRelease": true
@@ -1388,7 +1388,7 @@ export const contributorRankData = {
         "key": "github:pranavthakur0-0",
         "commits": 1,
         "reviews": 1,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-08-03",
         "latestCommitDate": "2026-08-03",
         "isNewContributorSinceRelease": true
@@ -1403,7 +1403,7 @@ export const contributorRankData = {
         "key": "github:siloteemu",
         "commits": 1,
         "reviews": 1,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-06-11",
         "latestCommitDate": "2026-06-11",
         "isNewContributorSinceRelease": false
@@ -1418,7 +1418,7 @@ export const contributorRankData = {
         "key": "github:xiongzubiao",
         "commits": 1,
         "reviews": 1,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-07-14",
         "latestCommitDate": "2026-07-14",
         "isNewContributorSinceRelease": true
@@ -1433,7 +1433,7 @@ export const contributorRankData = {
         "key": "github:akshayv",
         "commits": 1,
         "reviews": 0,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-06-18",
         "latestCommitDate": "2026-06-18",
         "isNewContributorSinceRelease": false
@@ -1448,7 +1448,7 @@ export const contributorRankData = {
         "key": "github:arijitroy003",
         "commits": 1,
         "reviews": 0,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-07-23",
         "latestCommitDate": "2026-07-23",
         "isNewContributorSinceRelease": true
@@ -1463,13 +1463,28 @@ export const contributorRankData = {
         "key": "github:benhurstephen",
         "commits": 1,
         "reviews": 0,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-07-20",
         "latestCommitDate": "2026-07-20",
         "isNewContributorSinceRelease": true
       },
       {
         "rank": 35,
+        "name": "ChethanUK",
+        "login": "chethanuk",
+        "avatarLogin": "chethanuk",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16241795?v=4",
+        "avatarSeed": "chethanuk",
+        "key": "github:chethanuk",
+        "commits": 1,
+        "reviews": 0,
+        "share": 0.0031,
+        "firstCommitDate": "2026-08-11",
+        "latestCommitDate": "2026-08-11",
+        "isNewContributorSinceRelease": true
+      },
+      {
+        "rank": 36,
         "name": "Haritha",
         "login": "haritha3320",
         "avatarLogin": "haritha3320",
@@ -1478,13 +1493,13 @@ export const contributorRankData = {
         "key": "github:haritha3320",
         "commits": 1,
         "reviews": 0,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-07-10",
         "latestCommitDate": "2026-07-10",
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 36,
+        "rank": 37,
         "name": "MilindRastogi24",
         "login": "MilindRastogi24",
         "avatarLogin": "MilindRastogi24",
@@ -1493,13 +1508,28 @@ export const contributorRankData = {
         "key": "github:milindrastogi24",
         "commits": 1,
         "reviews": 0,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-06-30",
         "latestCommitDate": "2026-06-30",
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 37,
+        "rank": 38,
+        "name": "Morax",
+        "login": "fzlzjerry",
+        "avatarLogin": "fzlzjerry",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/100508620?v=4",
+        "avatarSeed": "fzlzjerry",
+        "key": "github:fzlzjerry",
+        "commits": 1,
+        "reviews": 0,
+        "share": 0.0031,
+        "firstCommitDate": "2026-08-13",
+        "latestCommitDate": "2026-08-13",
+        "isNewContributorSinceRelease": true
+      },
+      {
+        "rank": 39,
         "name": "Nandi Vardhan Reddy",
         "login": "nandi19k",
         "avatarLogin": "nandi19k",
@@ -1508,13 +1538,13 @@ export const contributorRankData = {
         "key": "github:nandi19k",
         "commits": 1,
         "reviews": 0,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-08-11",
         "latestCommitDate": "2026-08-11",
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 38,
+        "rank": 40,
         "name": "Omkar Kabde",
         "login": "omkar-334",
         "avatarLogin": "omkar-334",
@@ -1523,13 +1553,13 @@ export const contributorRankData = {
         "key": "github:omkar-334",
         "commits": 1,
         "reviews": 0,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-06-16",
         "latestCommitDate": "2026-06-16",
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 39,
+        "rank": 41,
         "name": "Polly Labs",
         "login": "pollychen-lab",
         "avatarLogin": "pollychen-lab",
@@ -1538,13 +1568,13 @@ export const contributorRankData = {
         "key": "github:pollychen-lab",
         "commits": 1,
         "reviews": 0,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-07-19",
         "latestCommitDate": "2026-07-19",
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 40,
+        "rank": 42,
         "name": "raghavchitkara",
         "login": "raghavchitkara36",
         "avatarLogin": "raghavchitkara36",
@@ -1553,13 +1583,13 @@ export const contributorRankData = {
         "key": "github:raghavchitkara36",
         "commits": 1,
         "reviews": 0,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-07-27",
         "latestCommitDate": "2026-07-27",
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 41,
+        "rank": 43,
         "name": "RAGHUL M",
         "login": "Raghul-M",
         "avatarLogin": "Raghul-M",
@@ -1568,13 +1598,13 @@ export const contributorRankData = {
         "key": "github:raghul-m",
         "commits": 1,
         "reviews": 0,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-07-12",
         "latestCommitDate": "2026-07-12",
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 42,
+        "rank": 44,
         "name": "Ruiming Zhao",
         "login": "uuzzrm",
         "avatarLogin": "uuzzrm",
@@ -1583,13 +1613,13 @@ export const contributorRankData = {
         "key": "github:uuzzrm",
         "commits": 1,
         "reviews": 0,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-08-12",
         "latestCommitDate": "2026-08-12",
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 43,
+        "rank": 45,
         "name": "wuyangfan",
         "login": "wyf027",
         "avatarLogin": "wyf027",
@@ -1598,13 +1628,13 @@ export const contributorRankData = {
         "key": "github:wyf027",
         "commits": 1,
         "reviews": 0,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-06-14",
         "latestCommitDate": "2026-06-14",
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 44,
+        "rank": 46,
         "name": "Xiangyu Li",
         "login": "lxingy3",
         "avatarLogin": "lxingy3",
@@ -1613,13 +1643,13 @@ export const contributorRankData = {
         "key": "github:lxingy3",
         "commits": 1,
         "reviews": 0,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-07-14",
         "latestCommitDate": "2026-07-14",
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 45,
+        "rank": 47,
         "name": "Xiaotian Yu",
         "login": "xiaotian-yu",
         "avatarLogin": "xiaotian-yu",
@@ -1628,13 +1658,13 @@ export const contributorRankData = {
         "key": "github:xiaotian-yu",
         "commits": 1,
         "reviews": 0,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-06-17",
         "latestCommitDate": "2026-06-17",
         "isNewContributorSinceRelease": false
       },
       {
-        "rank": 46,
+        "rank": 48,
         "name": "xiaoyu-xyz",
         "login": "xiaoyu-xyz",
         "avatarLogin": "xiaoyu-xyz",
@@ -1643,13 +1673,13 @@ export const contributorRankData = {
         "key": "github:xiaoyu-xyz",
         "commits": 1,
         "reviews": 0,
-        "share": 0.0034,
+        "share": 0.0031,
         "firstCommitDate": "2026-06-05",
         "latestCommitDate": "2026-06-05",
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 47,
+        "rank": 49,
         "name": "aayushRedHat",
         "login": "aayushRedHat",
         "avatarLogin": "aayushRedHat",
@@ -1668,7 +1698,7 @@ export const contributorRankData = {
   "v02ToV03": {
     "id": "v02ToV03",
     "label": "v0.2 -> v0.3",
-    "generatedAt": "2026-08-13",
+    "generatedAt": "2026-08-14",
     "startDate": "2026-03-10",
     "endDate": "2026-06-05",
     "description": "Non-merge commit activity between v0.2.0 and v0.3.0.",
@@ -2729,7 +2759,7 @@ export const contributorRankData = {
   "v01ToV02": {
     "id": "v01ToV02",
     "label": "v0.1 -> v0.2",
-    "generatedAt": "2026-08-13",
+    "generatedAt": "2026-08-14",
     "startDate": "2026-01-05",
     "endDate": "2026-03-10",
     "description": "Non-merge commit activity between v0.1.0 and v0.2.0.",
@@ -3402,7 +3432,7 @@ export const contributorRankData = {
   "v0ToV01": {
     "id": "v0ToV01",
     "label": "v0 -> v0.1",
-    "generatedAt": "2026-08-13",
+    "generatedAt": "2026-08-14",
     "startDate": null,
     "endDate": "2026-01-05",
     "description": "Initial non-merge commit activity through v0.1.0.",
@@ -4211,14 +4241,14 @@ export const contributorRankData = {
   "all": {
     "id": "all",
     "label": "All time",
-    "generatedAt": "2026-08-13",
+    "generatedAt": "2026-08-14",
     "startDate": null,
-    "endDate": "2026-08-13",
+    "endDate": "2026-08-14",
     "description": "Full repository non-merge commit history.",
-    "totalCommits": 1654,
-    "totalReviews": 1418,
-    "totalContributors": 155,
-    "newContributors": 148,
+    "totalCommits": 1684,
+    "totalReviews": 1425,
+    "totalContributors": 157,
+    "newContributors": 150,
     "entries": [
       {
         "rank": 1,
@@ -4229,8 +4259,8 @@ export const contributorRankData = {
         "avatarSeed": "xunzhuo",
         "key": "github:xunzhuo",
         "commits": 386,
-        "reviews": 398,
-        "share": 0.2334,
+        "reviews": 402,
+        "share": 0.2292,
         "firstCommitDate": "2025-06-16",
         "latestCommitDate": "2026-08-11",
         "isNewContributorSinceRelease": true
@@ -4245,13 +4275,28 @@ export const contributorRankData = {
         "key": "github:rootfs",
         "commits": 206,
         "reviews": 441,
-        "share": 0.1245,
+        "share": 0.1223,
         "firstCommitDate": "2025-04-15",
         "latestCommitDate": "2026-06-07",
         "isNewContributorSinceRelease": true
       },
       {
         "rank": 3,
+        "name": "theohsiung",
+        "login": "theohsiung",
+        "avatarLogin": "theohsiung",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90186852?v=4",
+        "avatarSeed": "theohsiung",
+        "key": "github:theohsiung",
+        "commits": 75,
+        "reviews": 10,
+        "share": 0.0445,
+        "firstCommitDate": "2026-05-29",
+        "latestCommitDate": "2026-08-12",
+        "isNewContributorSinceRelease": true
+      },
+      {
+        "rank": 4,
         "name": "samzong",
         "login": "samzong",
         "avatarLogin": "samzong",
@@ -4260,13 +4305,13 @@ export const contributorRankData = {
         "key": "github:samzong",
         "commits": 58,
         "reviews": 32,
-        "share": 0.0351,
+        "share": 0.0344,
         "firstCommitDate": "2025-09-16",
         "latestCommitDate": "2026-02-27",
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 4,
+        "rank": 5,
         "name": "yuluo-yx",
         "login": "yuluo-yx",
         "avatarLogin": "yuluo-yx",
@@ -4275,13 +4320,13 @@ export const contributorRankData = {
         "key": "github:yuluo-yx",
         "commits": 55,
         "reviews": 58,
-        "share": 0.0333,
+        "share": 0.0327,
         "firstCommitDate": "2025-09-06",
         "latestCommitDate": "2026-01-28",
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 5,
+        "rank": 6,
         "name": "Yossi Ovadia",
         "login": "yossiovadia",
         "avatarLogin": "yossiovadia",
@@ -4290,24 +4335,9 @@ export const contributorRankData = {
         "key": "github:yossiovadia",
         "commits": 51,
         "reviews": 3,
-        "share": 0.0308,
+        "share": 0.0303,
         "firstCommitDate": "2025-05-20",
         "latestCommitDate": "2026-03-26",
-        "isNewContributorSinceRelease": true
-      },
-      {
-        "rank": 6,
-        "name": "Theo Hsiung",
-        "login": "theohsiung",
-        "avatarLogin": "theohsiung",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/90186852?v=4",
-        "avatarSeed": "theohsiung",
-        "key": "github:theohsiung",
-        "commits": 48,
-        "reviews": 9,
-        "share": 0.029,
-        "firstCommitDate": "2026-05-29",
-        "latestCommitDate": "2026-08-12",
         "isNewContributorSinceRelease": true
       },
       {
@@ -4320,7 +4350,7 @@ export const contributorRankData = {
         "key": "github:wukuntai-0211",
         "commits": 47,
         "reviews": 24,
-        "share": 0.0284,
+        "share": 0.0279,
         "firstCommitDate": "2026-05-05",
         "latestCommitDate": "2026-08-06",
         "isNewContributorSinceRelease": true
@@ -4335,7 +4365,7 @@ export const contributorRankData = {
         "key": "github:faust-benchou",
         "commits": 43,
         "reviews": 55,
-        "share": 0.026,
+        "share": 0.0255,
         "firstCommitDate": "2026-03-26",
         "latestCommitDate": "2026-07-22",
         "isNewContributorSinceRelease": true
@@ -4350,7 +4380,7 @@ export const contributorRankData = {
         "key": "github:cryo-zd",
         "commits": 43,
         "reviews": 8,
-        "share": 0.026,
+        "share": 0.0255,
         "firstCommitDate": "2025-09-01",
         "latestCommitDate": "2026-06-23",
         "isNewContributorSinceRelease": true
@@ -4363,11 +4393,11 @@ export const contributorRankData = {
         "avatarUrl": "https://avatars.githubusercontent.com/u/1269496?v=4",
         "avatarSeed": "wilsonwu",
         "key": "github:wilsonwu",
-        "commits": 39,
+        "commits": 40,
         "reviews": 3,
-        "share": 0.0236,
+        "share": 0.0238,
         "firstCommitDate": "2025-12-09",
-        "latestCommitDate": "2026-08-12",
+        "latestCommitDate": "2026-08-13",
         "isNewContributorSinceRelease": true
       },
       {
@@ -4380,7 +4410,7 @@ export const contributorRankData = {
         "key": "github:drivebyer",
         "commits": 34,
         "reviews": 38,
-        "share": 0.0206,
+        "share": 0.0202,
         "firstCommitDate": "2026-03-13",
         "latestCommitDate": "2026-08-11",
         "isNewContributorSinceRelease": true
@@ -4395,7 +4425,7 @@ export const contributorRankData = {
         "key": "github:jaredforreal",
         "commits": 31,
         "reviews": 41,
-        "share": 0.0187,
+        "share": 0.0184,
         "firstCommitDate": "2025-09-15",
         "latestCommitDate": "2025-12-16",
         "isNewContributorSinceRelease": true
@@ -4410,7 +4440,7 @@ export const contributorRankData = {
         "key": "github:tao12345666333",
         "commits": 28,
         "reviews": 17,
-        "share": 0.0169,
+        "share": 0.0166,
         "firstCommitDate": "2025-09-01",
         "latestCommitDate": "2026-02-23",
         "isNewContributorSinceRelease": true
@@ -4425,7 +4455,7 @@ export const contributorRankData = {
         "key": "github:yehuditkerido",
         "commits": 28,
         "reviews": 8,
-        "share": 0.0169,
+        "share": 0.0166,
         "firstCommitDate": "2025-10-29",
         "latestCommitDate": "2026-04-14",
         "isNewContributorSinceRelease": true
@@ -4440,7 +4470,7 @@ export const contributorRankData = {
         "key": "github:shraderdm",
         "commits": 27,
         "reviews": 6,
-        "share": 0.0163,
+        "share": 0.016,
         "firstCommitDate": "2026-05-05",
         "latestCommitDate": "2026-07-16",
         "isNewContributorSinceRelease": true
@@ -4455,7 +4485,7 @@ export const contributorRankData = {
         "key": "github:szedan-rh",
         "commits": 27,
         "reviews": 6,
-        "share": 0.0163,
+        "share": 0.016,
         "firstCommitDate": "2025-11-08",
         "latestCommitDate": "2026-04-13",
         "isNewContributorSinceRelease": true
@@ -4469,8 +4499,8 @@ export const contributorRankData = {
         "avatarSeed": "aayushsaini101",
         "key": "github:aayushsaini101",
         "commits": 26,
-        "reviews": 100,
-        "share": 0.0157,
+        "reviews": 102,
+        "share": 0.0154,
         "firstCommitDate": "2026-04-17",
         "latestCommitDate": "2026-08-05",
         "isNewContributorSinceRelease": true
@@ -4485,7 +4515,7 @@ export const contributorRankData = {
         "key": "github:liavweiss",
         "commits": 25,
         "reviews": 5,
-        "share": 0.0151,
+        "share": 0.0148,
         "firstCommitDate": "2025-12-04",
         "latestCommitDate": "2026-04-13",
         "isNewContributorSinceRelease": true
@@ -4500,7 +4530,7 @@ export const contributorRankData = {
         "key": "github:asaadbalum",
         "commits": 24,
         "reviews": 2,
-        "share": 0.0145,
+        "share": 0.0143,
         "firstCommitDate": "2025-12-01",
         "latestCommitDate": "2026-04-17",
         "isNewContributorSinceRelease": true
@@ -4515,7 +4545,7 @@ export const contributorRankData = {
         "key": "github:noalimoy",
         "commits": 23,
         "reviews": 2,
-        "share": 0.0139,
+        "share": 0.0137,
         "firstCommitDate": "2025-12-08",
         "latestCommitDate": "2026-04-19",
         "isNewContributorSinceRelease": true
@@ -4530,7 +4560,7 @@ export const contributorRankData = {
         "key": "github:haowu1234",
         "commits": 22,
         "reviews": 56,
-        "share": 0.0133,
+        "share": 0.0131,
         "firstCommitDate": "2026-01-19",
         "latestCommitDate": "2026-07-13",
         "isNewContributorSinceRelease": true
@@ -4545,7 +4575,7 @@ export const contributorRankData = {
         "key": "github:onezero-y",
         "commits": 17,
         "reviews": 8,
-        "share": 0.0103,
+        "share": 0.0101,
         "firstCommitDate": "2025-09-02",
         "latestCommitDate": "2025-11-08",
         "isNewContributorSinceRelease": true
@@ -4560,7 +4590,7 @@ export const contributorRankData = {
         "key": "github:abdallahsamabd",
         "commits": 17,
         "reviews": 4,
-        "share": 0.0103,
+        "share": 0.0101,
         "firstCommitDate": "2025-12-11",
         "latestCommitDate": "2026-04-21",
         "isNewContributorSinceRelease": true
@@ -4575,7 +4605,7 @@ export const contributorRankData = {
         "key": "github:peterren",
         "commits": 15,
         "reviews": 4,
-        "share": 0.0091,
+        "share": 0.0089,
         "firstCommitDate": "2026-05-31",
         "latestCommitDate": "2026-07-21",
         "isNewContributorSinceRelease": true
@@ -4590,7 +4620,7 @@ export const contributorRankData = {
         "key": "github:twilighttechie",
         "commits": 14,
         "reviews": 5,
-        "share": 0.0085,
+        "share": 0.0083,
         "firstCommitDate": "2026-06-30",
         "latestCommitDate": "2026-07-29",
         "isNewContributorSinceRelease": true
@@ -4605,7 +4635,7 @@ export const contributorRankData = {
         "key": "github:yuezhu1",
         "commits": 11,
         "reviews": 5,
-        "share": 0.0067,
+        "share": 0.0065,
         "firstCommitDate": "2025-08-29",
         "latestCommitDate": "2025-12-10",
         "isNewContributorSinceRelease": true
@@ -4620,7 +4650,7 @@ export const contributorRankData = {
         "key": "github:carlory",
         "commits": 11,
         "reviews": 1,
-        "share": 0.0067,
+        "share": 0.0065,
         "firstCommitDate": "2025-10-17",
         "latestCommitDate": "2026-01-13",
         "isNewContributorSinceRelease": true
@@ -4635,7 +4665,7 @@ export const contributorRankData = {
         "key": "github:henschwartz",
         "commits": 11,
         "reviews": 0,
-        "share": 0.0067,
+        "share": 0.0065,
         "firstCommitDate": "2025-12-23",
         "latestCommitDate": "2026-05-01",
         "isNewContributorSinceRelease": true
@@ -4650,7 +4680,7 @@ export const contributorRankData = {
         "key": "github:aeft",
         "commits": 10,
         "reviews": 3,
-        "share": 0.006,
+        "share": 0.0059,
         "firstCommitDate": "2025-09-05",
         "latestCommitDate": "2025-09-18",
         "isNewContributorSinceRelease": true
@@ -4665,7 +4695,7 @@ export const contributorRankData = {
         "key": "github:ramkrishs",
         "commits": 10,
         "reviews": 0,
-        "share": 0.006,
+        "share": 0.0059,
         "firstCommitDate": "2026-04-28",
         "latestCommitDate": "2026-05-05",
         "isNewContributorSinceRelease": true
@@ -4680,7 +4710,7 @@ export const contributorRankData = {
         "key": "github:srampal",
         "commits": 9,
         "reviews": 6,
-        "share": 0.0054,
+        "share": 0.0053,
         "firstCommitDate": "2025-08-23",
         "latestCommitDate": "2026-03-11",
         "isNewContributorSinceRelease": true
@@ -4695,7 +4725,7 @@ export const contributorRankData = {
         "key": "github:nerdalert",
         "commits": 9,
         "reviews": 1,
-        "share": 0.0054,
+        "share": 0.0053,
         "firstCommitDate": "2026-01-04",
         "latestCommitDate": "2026-02-04",
         "isNewContributorSinceRelease": true
@@ -5748,6 +5778,21 @@ export const contributorRankData = {
       },
       {
         "rank": 103,
+        "name": "ChethanUK",
+        "login": "chethanuk",
+        "avatarLogin": "chethanuk",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16241795?v=4",
+        "avatarSeed": "chethanuk",
+        "key": "github:chethanuk",
+        "commits": 1,
+        "reviews": 0,
+        "share": 0.0006,
+        "firstCommitDate": "2026-08-11",
+        "latestCommitDate": "2026-08-11",
+        "isNewContributorSinceRelease": true
+      },
+      {
+        "rank": 104,
         "name": "Chever John",
         "login": "Chever-John",
         "avatarLogin": "Chever-John",
@@ -5762,7 +5807,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 104,
+        "rank": 105,
         "name": "Chujun Tao",
         "login": "AmyTao",
         "avatarLogin": "AmyTao",
@@ -5777,7 +5822,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 105,
+        "rank": 106,
         "name": "Deepak singh",
         "login": "Deepak8858",
         "avatarLogin": "Deepak8858",
@@ -5792,7 +5837,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 106,
+        "rank": 107,
         "name": "Dobri Danchev",
         "login": "danchev",
         "avatarLogin": "danchev",
@@ -5807,7 +5852,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 107,
+        "rank": 108,
         "name": "EmonLu",
         "login": "EmonLu",
         "avatarLogin": "EmonLu",
@@ -5822,7 +5867,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 108,
+        "rank": 109,
         "name": "Fahim Ahmed",
         "login": "fahimahmedx",
         "avatarLogin": "fahimahmedx",
@@ -5837,7 +5882,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 109,
+        "rank": 110,
         "name": "FeiDa",
         "login": "ABC12345anouys",
         "avatarLogin": "ABC12345anouys",
@@ -5852,7 +5897,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 110,
+        "rank": 111,
         "name": "Feng",
         "login": "niuguy",
         "avatarLogin": "niuguy",
@@ -5867,7 +5912,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 111,
+        "rank": 112,
         "name": "Filippo Balicchia",
         "login": "fbalicchia",
         "avatarLogin": "fbalicchia",
@@ -5882,7 +5927,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 112,
+        "rank": 113,
         "name": "Florencio Cano",
         "login": "fcanogab",
         "avatarLogin": "fcanogab",
@@ -5897,7 +5942,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 113,
+        "rank": 114,
         "name": "Francisco Puga Lojo",
         "login": "pugafran",
         "avatarLogin": "pugafran",
@@ -5912,7 +5957,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 114,
+        "rank": 115,
         "name": "GuanMu",
         "login": "ZeroZ-lab",
         "avatarLogin": "ZeroZ-lab",
@@ -5927,7 +5972,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 115,
+        "rank": 116,
         "name": "Hadar Cohen",
         "login": "Hadar301",
         "avatarLogin": "Hadar301",
@@ -5942,7 +5987,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 116,
+        "rank": 117,
         "name": "Haritha",
         "login": "haritha3320",
         "avatarLogin": "haritha3320",
@@ -5957,7 +6002,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 117,
+        "rank": 118,
         "name": "Hikari",
         "login": "altale",
         "avatarLogin": "altale",
@@ -5972,7 +6017,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 118,
+        "rank": 119,
         "name": "Immanuel Tikhonov",
         "login": "immanuwell",
         "avatarLogin": "immanuwell",
@@ -5987,7 +6032,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 119,
+        "rank": 120,
         "name": "joyful-ii-V-I",
         "login": "joyful-ii-V-I",
         "avatarLogin": "joyful-ii-V-I",
@@ -6002,7 +6047,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 120,
+        "rank": 121,
         "name": "KJyang-0114",
         "login": "KJyang-0114",
         "avatarLogin": "KJyang-0114",
@@ -6017,7 +6062,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 121,
+        "rank": 122,
         "name": "Kongxi",
         "login": "iamagenius00",
         "avatarLogin": "iamagenius00",
@@ -6032,7 +6077,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 122,
+        "rank": 123,
         "name": "Lysandre Debut",
         "login": "LysandreJik",
         "avatarLogin": "LysandreJik",
@@ -6047,7 +6092,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 123,
+        "rank": 124,
         "name": "Marc Navarro",
         "login": "toffentoffen",
         "avatarLogin": "toffentoffen",
@@ -6062,7 +6107,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 124,
+        "rank": 125,
         "name": "MilindRastogi24",
         "login": "MilindRastogi24",
         "avatarLogin": "MilindRastogi24",
@@ -6077,7 +6122,22 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 125,
+        "rank": 126,
+        "name": "Morax",
+        "login": "fzlzjerry",
+        "avatarLogin": "fzlzjerry",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/100508620?v=4",
+        "avatarSeed": "fzlzjerry",
+        "key": "github:fzlzjerry",
+        "commits": 1,
+        "reviews": 0,
+        "share": 0.0006,
+        "firstCommitDate": "2026-08-13",
+        "latestCommitDate": "2026-08-13",
+        "isNewContributorSinceRelease": true
+      },
+      {
+        "rank": 127,
         "name": "Mossaab Souaissa",
         "login": "Mossaab-s",
         "avatarLogin": "Mossaab-s",
@@ -6092,7 +6152,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 126,
+        "rank": 128,
         "name": "Nandi Vardhan Reddy",
         "login": "nandi19k",
         "avatarLogin": "nandi19k",
@@ -6107,7 +6167,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 127,
+        "rank": 129,
         "name": "Nick J Lange",
         "login": "NickJLange",
         "avatarLogin": "NickJLange",
@@ -6122,7 +6182,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 128,
+        "rank": 130,
         "name": "Nilesh Agarwal",
         "login": "nickaggarwal",
         "avatarLogin": "nickaggarwal",
@@ -6137,7 +6197,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 129,
+        "rank": 131,
         "name": "Omkar Kabde",
         "login": "omkar-334",
         "avatarLogin": "omkar-334",
@@ -6152,7 +6212,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 130,
+        "rank": 132,
         "name": "Pete Cheslock",
         "login": "petecheslock",
         "avatarLogin": "petecheslock",
@@ -6167,7 +6227,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 131,
+        "rank": 133,
         "name": "Polly Labs",
         "login": "pollychen-lab",
         "avatarLogin": "pollychen-lab",
@@ -6182,7 +6242,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 132,
+        "rank": 134,
         "name": "Pratyush Singhal",
         "login": "psinghal20",
         "avatarLogin": "psinghal20",
@@ -6197,7 +6257,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 133,
+        "rank": 135,
         "name": "raghavchitkara",
         "login": "raghavchitkara36",
         "avatarLogin": "raghavchitkara36",
@@ -6212,7 +6272,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 134,
+        "rank": 136,
         "name": "RAGHUL M",
         "login": "Raghul-M",
         "avatarLogin": "Raghul-M",
@@ -6227,7 +6287,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 135,
+        "rank": 137,
         "name": "Ruiming Zhao",
         "login": "uuzzrm",
         "avatarLogin": "uuzzrm",
@@ -6242,7 +6302,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 136,
+        "rank": 138,
         "name": "scydas",
         "login": "scydas",
         "avatarLogin": "scydas",
@@ -6257,7 +6317,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 137,
+        "rank": 139,
         "name": "Shern Shiou Tan",
         "login": "shernshiou",
         "avatarLogin": "shernshiou",
@@ -6272,7 +6332,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 138,
+        "rank": 140,
         "name": "Shira Guskin",
         "login": "shira-g",
         "avatarLogin": "shira-g",
@@ -6287,7 +6347,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 139,
+        "rank": 141,
         "name": "Siddharth Shah",
         "login": "siddharth1036",
         "avatarLogin": "siddharth1036",
@@ -6302,7 +6362,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 140,
+        "rank": 142,
         "name": "Tien Nguyen",
         "login": "htiennv",
         "avatarLogin": "htiennv",
@@ -6317,7 +6377,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 141,
+        "rank": 143,
         "name": "UiJong (Jace), Yang",
         "login": "Scanf-s",
         "avatarLogin": "Scanf-s",
@@ -6332,7 +6392,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 142,
+        "rank": 144,
         "name": "wangxiaolei",
         "login": "fatelei",
         "avatarLogin": "fatelei",
@@ -6347,7 +6407,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 143,
+        "rank": 145,
         "name": "wuyangfan",
         "login": "wyf027",
         "avatarLogin": "wyf027",
@@ -6362,7 +6422,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 144,
+        "rank": 146,
         "name": "Xiangyu Li",
         "login": "lxingy3",
         "avatarLogin": "lxingy3",
@@ -6377,7 +6437,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 145,
+        "rank": 147,
         "name": "Xiansen Chen",
         "login": "Cerdore",
         "avatarLogin": "Cerdore",
@@ -6392,7 +6452,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 146,
+        "rank": 148,
         "name": "xiaoyu-xyz",
         "login": "xiaoyu-xyz",
         "avatarLogin": "xiaoyu-xyz",
@@ -6407,7 +6467,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 147,
+        "rank": 149,
         "name": "yafengio",
         "login": "yafengio",
         "avatarLogin": "yafengio",
@@ -6422,7 +6482,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 148,
+        "rank": 150,
         "name": "ZohaibHassan16",
         "login": "ZohaibHassan16",
         "avatarLogin": "ZohaibHassan16",
@@ -6437,7 +6497,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": true
       },
       {
-        "rank": 149,
+        "rank": 151,
         "name": "ivarflakstad",
         "login": "ivarflakstad",
         "avatarLogin": "ivarflakstad",
@@ -6452,7 +6512,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": false
       },
       {
-        "rank": 150,
+        "rank": 152,
         "name": "Francisco Javier Arceo",
         "login": "franciscojavierarceo",
         "avatarLogin": "franciscojavierarceo",
@@ -6467,7 +6527,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": false
       },
       {
-        "rank": 151,
+        "rank": 153,
         "name": "aayushRedHat",
         "login": "aayushRedHat",
         "avatarLogin": "aayushRedHat",
@@ -6482,7 +6542,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": false
       },
       {
-        "rank": 152,
+        "rank": 154,
         "name": "Kunshang Ji",
         "login": "jikunshang",
         "avatarLogin": "jikunshang",
@@ -6497,7 +6557,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": false
       },
       {
-        "rank": 153,
+        "rank": 155,
         "name": "my-git9",
         "login": "my-git9",
         "avatarLogin": "my-git9",
@@ -6512,7 +6572,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": false
       },
       {
-        "rank": 154,
+        "rank": 156,
         "name": "senanz",
         "login": "senanz",
         "avatarLogin": "senanz",
@@ -6527,7 +6587,7 @@ export const contributorRankData = {
         "isNewContributorSinceRelease": false
       },
       {
-        "rank": 155,
+        "rank": 157,
         "name": "Yuan Tang",
         "login": "terrytangyuan",
         "avatarLogin": "terrytangyuan",
